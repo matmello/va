@@ -11,6 +11,7 @@
                             zoom: 15,
                             disableDefaultUI: true,
 							scrollwheel: false,
+              key: "AIzaSyAOzIjy-a5lsLdJuT9zfXvQO6uwGrTLUY0",
 
                             // The latitude and longitude to center the map (always required)
 
