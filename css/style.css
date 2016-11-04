@@ -5064,3 +5064,21 @@ display:table;
 .container-4 .de-team-list {
     width: 33.2% !important;
 }
+
+.second-tel {
+    margin-left: 63px;
+		border-bottom: none !important;
+}
+
+.first-team {
+	margin-left: 16.6% !important;
+}
+
+.name-img {
+	/*display: inline-block;
+	width: 330px;
+	height: 330px;
+	display: block;
+  max-width: 100%;*/
+  /*height: auto;*/
+}

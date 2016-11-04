@@ -4,7 +4,8 @@
                     function init() {
                         // Basic options for a simple Google Map
                         // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
-                        var myLatlng = new google.maps.LatLng(-15.827122, -47.953372);
+                        // 15°47'52.2"S 47°53'41.6"W
+                        var myLatlng = new google.maps.LatLng(-15.797843, -47.894884);
 
                         var mapOptions = {
                             // How zoomed in you want the map to start at (always required)
